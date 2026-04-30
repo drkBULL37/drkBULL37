@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @drkBULL37
-- 👀 I’m interested in cybersecurity, python coding and playing ctfs
-- 🌱 I’m currently learning deeper on python and its relationship with penetration testing, developing offensive security tools and doing projects for praticing and improving my field
+- 👀 I’m interested in cybersecurity, python coding and machine learning 
+- 🌱 I’m currently learning deeper on python and its relationship with penetration testing, developing offensive security tools and doing projects for praticing and improving my field, also python for data science and machine learning as it aids in training and testing models.
 - 💞️ I’m looking to collaborate on different projects and tasks that will help to increase my skills and opportunity to show the person i am.
 - 📫 How to reach me:
 -    Email: mercymwasakilali24@gmail.com
@@ -8,7 +8,7 @@
 -    LinkedIn: Mercy John
 -    Instagram: daemon9024
 - 😄 Hobby: Skating, playing ctfs, reading books. 
-- ⚡ Fun fact: In Life, make sure you put more effort in knowing and understanding that to compete
+- ⚡ Fun fact: In Life, make sure you put more effort in knowing and understanding.
 
 <!---
 drkBULL37/drkBULL37 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
